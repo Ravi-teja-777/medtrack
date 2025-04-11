@@ -16,7 +16,7 @@ app = Flask(__name__)
 # ---------------------------------------
 # App Configuration (Inline)
 # ---------------------------------------
-AWS_REGION_NAME = 'ap-south-1'  # Example: Mumbai region
+AWS_REGION_NAME = 'us-east-1'  # Example: Mumbai region
 
 # Email config (use App Passwords if Gmail)
 SMTP_SERVER = 'smtp.gmail.com'
